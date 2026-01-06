@@ -1,0 +1,2 @@
+# SFP-xLSTM_demo1
+SFP_xLSTM: A_fusion_fault_diagnosis_framework_of_sparse_focus_modulation_and_xLSTM_for_vibration_signals
